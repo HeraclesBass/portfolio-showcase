@@ -81,15 +81,13 @@ Production microservices infrastructure running **70 Docker containers** across 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [tos-analyzer](https://github.com/HeraclesBass/tos-analyzer) | AI-powered Terms of Service analyzer ([live](https://tos.herakles.dev)) | Next.js, TypeScript, Gemini, PostgreSQL, Redis |
+| [tos-analyzer](https://github.com/HeraclesBass/tos-analyzer) | AI-powered Terms of Service analyzer ([live](https://fine-print.org)) | Next.js, TypeScript, Gemini, PostgreSQL, Redis |
 | [claude-trader-pro](https://github.com/HeraclesBass/claude-trader-pro) | Crypto trading platform with AI predictions | Python, FastAPI, React, WebSocket, PostgreSQL |
 | [3-body-problem](https://github.com/HeraclesBass/3-body-problem) | GPU-accelerated N-body physics simulation | Python, NVIDIA Warp, OpenGL |
 | [manifold-visualizer](https://github.com/HeraclesBass/manifold-visualizer) | WebGPU mathematical surface renderer ([live](https://manifold.herakles.dev)) | Python, Flask, WebGPU, WGSL |
 | [claude-orchestrator-showcase](https://github.com/HeraclesBass/claude-orchestrator-showcase) | V11 agent orchestration framework | JSON Schema, Bash hooks |
 | [iolaus-zeus](https://github.com/HeraclesBass/iolaus-zeus) | Dual-interface AI platform (CLI + web) | TypeScript, React, Python, FastAPI |
-
-- **Zeus Terminal** — AI-powered web terminal (authenticated)
-- **Manifold Visualizer** — WebGPU mathematical surfaces (authenticated)
+| [ckreynolds-tax-showcase](https://github.com/HeraclesBass/ckreynolds-tax-showcase) | Tax service SaaS platform (client project) | Next.js, TypeScript, Supabase, Square, Twilio |
 
 ---
 
