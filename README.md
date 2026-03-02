@@ -1,6 +1,6 @@
 # Hercules Platform
 
-Production microservices infrastructure running **75+ Docker containers** across **35 projects** with event-driven architecture, AI agent orchestration, and full observability.
+Production microservices infrastructure running **75+ Docker containers** across **30+ projects** with event-driven architecture, AI agent orchestration, and full observability.
 
 **Live at [herakles.dev](https://herakles.dev)** | [hello@herakles.dev](mailto:hello@herakles.dev)
 
@@ -9,7 +9,7 @@ Production microservices infrastructure running **75+ Docker containers** across
 ```
                         +---------------+
                         |    nginx      |  SSL termination, rate limiting
-                        |   gateway     |  routing to 35+ projects
+                        |   gateway     |  routing to 30+ projects
                         +-------+-------+
                                 |
               +-----------------+-----------------+
@@ -34,7 +34,7 @@ Production microservices infrastructure running **75+ Docker containers** across
   +-------------------------------------------------------------
 ```
 
-## Services (35 projects, 75+ containers)
+## Services (30+ projects, 75+ containers)
 
 | Category | Count | Examples |
 |----------|-------|---------|
@@ -46,7 +46,7 @@ Production microservices infrastructure running **75+ Docker containers** across
 
 ## Key Capabilities
 
-- **[AI Agent Orchestration](https://github.com/HeraclesBass/claude-orchestrator-showcase)**: 104 specialized agents coordinated by meta-orchestrator with wave-based parallel execution, 51 skills, 11 lifecycle hooks ([architecture showcase](https://github.com/HeraclesBass/claude-orchestrator-showcase))
+- **[AI Agent Orchestration](https://github.com/HeraclesBass/claude-orchestrator-showcase)**: 104 specialized agents coordinated by meta-orchestrator with wave-based parallel execution, 51 skills, 10 lifecycle hooks ([architecture showcase](https://github.com/HeraclesBass/claude-orchestrator-showcase))
 - **Event-Driven Communication**: Redis pub/sub and WebSocket for real-time inter-service messaging
 - **Multi-Tenant Auth**: SSO with MFA and role-based access control
 - **Zero-Downtime Deployment**: Automated builds, health checks, rollback capability via Docker Compose
@@ -71,9 +71,9 @@ Production microservices infrastructure running **75+ Docker containers** across
 | Metric | Value |
 |--------|-------|
 | Running containers | 75+ |
-| Active projects | 35+ |
+| Active projects | 30+ |
 | Live subdomains | 70+ |
-| Codebase | 400K+ LOC |
+| Codebase | 390K+ LOC |
 | Database engines | PostgreSQL, Redis, MongoDB |
 | Uptime monitoring | Prometheus + Grafana alerting |
 
