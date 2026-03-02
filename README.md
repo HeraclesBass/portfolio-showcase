@@ -86,7 +86,7 @@ Production microservices infrastructure running **75+ Docker containers** across
 | [3-body-problem](https://github.com/HeraclesBass/3-body-problem) | GPU-accelerated N-body physics simulation | Python, NVIDIA Warp, OpenGL |
 | [manifold-visualizer](https://github.com/HeraclesBass/manifold-visualizer) | WebGPU mathematical surface renderer ([live](https://manifold.herakles.dev)) | Python, Flask, WebGPU, WGSL |
 | [claude-orchestrator-showcase](https://github.com/HeraclesBass/claude-orchestrator-showcase) | V11 agent orchestration framework | JSON Schema, Bash hooks |
-| [iolaus-zeus](https://github.com/HeraclesBass/iolaus-zeus) | Dual-interface AI platform (CLI + web) | TypeScript, React, Python, FastAPI |
+| [iolaus-zeus-showcase](https://github.com/HeraclesBass/iolaus-zeus-showcase) | Dual-interface AI platform (CLI + web) | TypeScript, React, Python, FastAPI |
 | [claude-gemini](https://github.com/HeraclesBass/claude-gemini) | CLI bridge for Gemini 3.1 Pro reasoning | Python, Google GenAI SDK |
 | [claude-pi](https://github.com/HeraclesBass/claude-pi) | Co-processor CLI for Pi agent framework | TypeScript, Node.js, Commander.js |
 | [athenaeum](https://github.com/HeraclesBass/athenaeum) | Self-hosted semantic library platform (RAG) | Python, FastAPI, pgvector, Next.js |
