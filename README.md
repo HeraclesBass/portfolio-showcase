@@ -2,7 +2,7 @@
 
 Production microservices infrastructure running **70 Docker containers** across **31 projects** with event-driven architecture, AI agent orchestration, and full observability.
 
-**Live at [herakles.dev](https://herakles.dev)** | [Resume (PDF)](D-Michael-Piscitelli-Resume.pdf) | [Resume](RESUME.md) | [hello@herakles.dev](mailto:hello@herakles.dev)
+**Live at [herakles.dev](https://herakles.dev)** | [hello@herakles.dev](mailto:hello@herakles.dev)
 
 ## Architecture
 
