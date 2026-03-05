@@ -161,18 +161,18 @@ Restic-based with Hetzner offsite storage, Prometheus metrics exporter for backu
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [tos-analyzer](https://github.com/HeraclesBass/tos-analyzer) | AI-powered Terms of Service analyzer ([live](https://fine-print.org)) | Next.js, TypeScript, Gemini, PostgreSQL, Redis |
-| [claude-trader-pro](https://github.com/HeraclesBass/claude-trader-pro) | Crypto trading platform with AI predictions and real-time streaming | Python, FastAPI, React, Socket.IO, PostgreSQL |
-| [athenaeum](https://github.com/HeraclesBass/athenaeum) | Self-hosted semantic library platform with RAG chat and MCP server | Python, FastAPI, pgvector, Next.js, Sentence Transformers |
-| [3-body-problem](https://github.com/HeraclesBass/3-body-problem) | GPU-accelerated N-body simulation with HLS streaming | Python, NVIDIA Warp, OpenGL |
-| [manifold-visualizer](https://github.com/HeraclesBass/manifold-visualizer) | WebGPU mathematical surface renderer ([live](https://manifold.herakles.dev)) | Python, Flask, WebGPU, WGSL |
-| [observability-showcase](https://github.com/HeraclesBass/observability-showcase) | Production observability stack with security alerting | Grafana, Prometheus, Loki, OpenTelemetry, fail2ban |
-| [claude-orchestrator-showcase](https://github.com/HeraclesBass/claude-orchestrator-showcase) | V11 agent orchestration framework | Agent Teams, 8 formations, lifecycle hooks |
-| [iolaus-zeus-showcase](https://github.com/HeraclesBass/iolaus-zeus-showcase) | Dual-interface AI platform — CLI agent + web command center | TypeScript, React, Python, FastAPI, WebSocket |
-| [claude-gemini](https://github.com/HeraclesBass/claude-gemini) | CLI bridge delegating reasoning to Gemini 3.1 Pro | Python, Google GenAI SDK |
-| [claude-pi](https://github.com/HeraclesBass/claude-pi) | Co-processor CLI for Pi agent with safety firewall | TypeScript, Node.js, Commander.js |
-| [ckreynolds-tax-showcase](https://github.com/HeraclesBass/ckreynolds-tax-showcase) | Tax service SaaS platform (client project) | Next.js, TypeScript, Supabase, Square, Twilio |
+| [tos-analyzer](https://github.com/herakles-dev/tos-analyzer) | AI-powered Terms of Service analyzer ([live](https://fine-print.org)) | Next.js, TypeScript, Gemini, PostgreSQL, Redis |
+| [claude-trader-pro](https://github.com/herakles-dev/claude-trader-pro) | Crypto trading platform with AI predictions and real-time streaming | Python, FastAPI, React, Socket.IO, PostgreSQL |
+| [athenaeum](https://github.com/herakles-dev/athenaeum) | Self-hosted semantic library platform with RAG chat and MCP server | Python, FastAPI, pgvector, Next.js, Sentence Transformers |
+| [3-body-problem](https://github.com/herakles-dev/3-body-problem) | GPU-accelerated N-body simulation with HLS streaming | Python, NVIDIA Warp, OpenGL |
+| [manifold-visualizer](https://github.com/herakles-dev/manifold-visualizer) | WebGPU mathematical surface renderer ([live](https://manifold.herakles.dev)) | Python, Flask, WebGPU, WGSL |
+| [observability-showcase](https://github.com/herakles-dev/observability-showcase) | Production observability stack with security alerting | Grafana, Prometheus, Loki, OpenTelemetry, fail2ban |
+| [claude-orchestrator-showcase](https://github.com/herakles-dev/claude-orchestrator-showcase) | V11 agent orchestration framework | Agent Teams, 8 formations, lifecycle hooks |
+| [iolaus-zeus-showcase](https://github.com/herakles-dev/iolaus-zeus-showcase) | Dual-interface AI platform — CLI agent + web command center | TypeScript, React, Python, FastAPI, WebSocket |
+| [claude-gemini](https://github.com/herakles-dev/claude-gemini) | CLI bridge delegating reasoning to Gemini 3.1 Pro | Python, Google GenAI SDK |
+| [claude-pi](https://github.com/herakles-dev/claude-pi) | Co-processor CLI for Pi agent with safety firewall | TypeScript, Node.js, Commander.js |
+| [ckreynolds-tax-showcase](https://github.com/herakles-dev/ckreynolds-tax-showcase) | Tax service SaaS platform (client project) | Next.js, TypeScript, Supabase, Square, Twilio |
 
 ---
 
-Built and operated by [D. Michael Piscitelli](https://github.com/HeraclesBass) | [herakles.dev](https://herakles.dev) | hello@herakles.dev
+Built and operated by [D. Michael Piscitelli](https://github.com/herakles-dev) | [herakles.dev](https://herakles.dev) | hello@herakles.dev
